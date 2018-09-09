@@ -24,8 +24,7 @@ public class UserTest {
 
     @Test
     public void test1(){
-        logger.error("陈加兵");
-
+//        String url=""
 
     }
 }
